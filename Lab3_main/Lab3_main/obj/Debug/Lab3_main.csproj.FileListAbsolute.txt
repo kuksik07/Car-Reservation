@@ -1,0 +1,60 @@
+D:\Oleg\Download\PROGRAMMING\2 kurs_2 sem\C#_YR\Lab3_main\Lab3_main\bin\Debug\Lab3_main.exe.config
+D:\Oleg\Download\PROGRAMMING\2 kurs_2 sem\C#_YR\Lab3_main\Lab3_main\bin\Debug\Lab3_main.exe
+D:\Oleg\Download\PROGRAMMING\2 kurs_2 sem\C#_YR\Lab3_main\Lab3_main\bin\Debug\Lab3_main.pdb
+D:\Oleg\Download\PROGRAMMING\2 kurs_2 sem\C#_YR\Lab3_main\Lab3_main\obj\Debug\Lab3_main.Properties.Resources.resources
+D:\Oleg\Download\PROGRAMMING\2 kurs_2 sem\C#_YR\Lab3_main\Lab3_main\obj\Debug\Lab3_main.csproj.GenerateResource.Cache
+D:\Oleg\Download\PROGRAMMING\2 kurs_2 sem\C#_YR\Lab3_main\Lab3_main\obj\Debug\Lab3_main.csproj.CoreCompileInputs.cache
+D:\Oleg\Download\PROGRAMMING\2 kurs_2 sem\C#_YR\Lab3_main\Lab3_main\obj\Debug\Lab3_main.exe
+D:\Oleg\Download\PROGRAMMING\2 kurs_2 sem\C#_YR\Lab3_main\Lab3_main\obj\Debug\Lab3_main.pdb
+D:\Oleg\Download\PROGRAMMING\2 kurs_2 sem\C#_YR\Lab3_main\Lab3_main\bin\Debug\MyClassLib.dll
+D:\Oleg\Download\PROGRAMMING\2 kurs_2 sem\C#_YR\Lab3_main\Lab3_main\bin\Debug\MyClassLib.pdb
+D:\Oleg\Download\PROGRAMMING\2 kurs_2 sem\C#_YR\Lab3_main\Lab3_main\obj\Debug\Lab3_main.AboutCurrRent.resources
+D:\Oleg\Download\PROGRAMMING\2 kurs_2 sem\C#_YR\Lab3_main\Lab3_main\obj\Debug\Lab3_main.PayDialog.resources
+D:\Oleg\Download\PROGRAMMING\2 kurs_2 sem\C#_YR\Lab3_main\Lab3_main\obj\Debug\Lab3_main.FailureDialog.resources
+D:\Oleg\Download\PROGRAMMING\2 kurs_2 sem\C#_YR\Lab3_main\Lab3_main\obj\Debug\Lab3_main.AdminPanel.resources
+D:\Oleg\Download\PROGRAMMING\2 kurs_2 sem\C#_YR\Lab3_main\Lab3_main\obj\Debug\Lab3_main.AdminAddCar.resources
+D:\Oleg\Download\PROGRAMMING\2 kurs_2 sem\C#_YR\Lab3_main\Lab3_main\obj\Debug\Lab3_main.carBooking.resources
+D:\Oleg\Download\PROGRAMMING\2 kurs_2 sem\C#_YR\Lab3_main\Lab3_main\obj\Debug\Lab3_main.Authorization.resources
+D:\Oleg\Download\PROGRAMMING\2 kurs_2 sem\C#_YR\Lab3_main\Lab3_main\obj\Debug\Lab3_main.Register.resources
+D:\Oleg\Download\PROGRAMMING\2 kurs_2 sem\C#_YR\Lab3_main\Lab3_main\obj\Debug\Lab3_main.CurrentAccount.resources
+D:\Oleg\Download\PROGRAMMING\2 kurs_2 sem\C#_YR\Lab3_main\Lab3_main\obj\Debug\Lab3_main.csprojResolveAssemblyReference.cache
+F:\2kurs_2semestr\УР\Lab3_complete\Lab3_main\Lab3_main\bin\Debug\Lab3_main.exe.config
+F:\2kurs_2semestr\УР\Lab3_complete\Lab3_main\Lab3_main\bin\Debug\Lab3_main.exe
+F:\2kurs_2semestr\УР\Lab3_complete\Lab3_main\Lab3_main\bin\Debug\Lab3_main.pdb
+F:\2kurs_2semestr\УР\Lab3_complete\Lab3_main\Lab3_main\bin\Debug\MyClassLib.dll
+F:\2kurs_2semestr\УР\Lab3_complete\Lab3_main\Lab3_main\bin\Debug\MyClassLib.pdb
+F:\2kurs_2semestr\УР\Lab3_complete\Lab3_main\Lab3_main\obj\Debug\Lab3_main.csprojResolveAssemblyReference.cache
+F:\2kurs_2semestr\УР\Lab3_complete\Lab3_main\Lab3_main\obj\Debug\Lab3_main.AboutCurrRent.resources
+F:\2kurs_2semestr\УР\Lab3_complete\Lab3_main\Lab3_main\obj\Debug\Lab3_main.AdminAddCar.resources
+F:\2kurs_2semestr\УР\Lab3_complete\Lab3_main\Lab3_main\obj\Debug\Lab3_main.AdminPanel.resources
+F:\2kurs_2semestr\УР\Lab3_complete\Lab3_main\Lab3_main\obj\Debug\Lab3_main.FailureDialog.resources
+F:\2kurs_2semestr\УР\Lab3_complete\Lab3_main\Lab3_main\obj\Debug\Lab3_main.carBooking.resources
+F:\2kurs_2semestr\УР\Lab3_complete\Lab3_main\Lab3_main\obj\Debug\Lab3_main.Authorization.resources
+F:\2kurs_2semestr\УР\Lab3_complete\Lab3_main\Lab3_main\obj\Debug\Lab3_main.Register.resources
+F:\2kurs_2semestr\УР\Lab3_complete\Lab3_main\Lab3_main\obj\Debug\Lab3_main.CurrentAccount.resources
+F:\2kurs_2semestr\УР\Lab3_complete\Lab3_main\Lab3_main\obj\Debug\Lab3_main.PayDialog.resources
+F:\2kurs_2semestr\УР\Lab3_complete\Lab3_main\Lab3_main\obj\Debug\Lab3_main.Properties.Resources.resources
+F:\2kurs_2semestr\УР\Lab3_complete\Lab3_main\Lab3_main\obj\Debug\Lab3_main.csproj.GenerateResource.Cache
+F:\2kurs_2semestr\УР\Lab3_complete\Lab3_main\Lab3_main\obj\Debug\Lab3_main.csproj.CoreCompileInputs.cache
+F:\2kurs_2semestr\УР\Lab3_complete\Lab3_main\Lab3_main\obj\Debug\Lab3_main.exe
+F:\2kurs_2semestr\УР\Lab3_complete\Lab3_main\Lab3_main\obj\Debug\Lab3_main.pdb
+G:\2kurs_2semestr\УР\Lab3_complete\Lab3_main\Lab3_main\bin\Debug\Lab3_main.exe.config
+G:\2kurs_2semestr\УР\Lab3_complete\Lab3_main\Lab3_main\bin\Debug\Lab3_main.exe
+G:\2kurs_2semestr\УР\Lab3_complete\Lab3_main\Lab3_main\bin\Debug\Lab3_main.pdb
+G:\2kurs_2semestr\УР\Lab3_complete\Lab3_main\Lab3_main\bin\Debug\MyClassLib.dll
+G:\2kurs_2semestr\УР\Lab3_complete\Lab3_main\Lab3_main\bin\Debug\MyClassLib.pdb
+G:\2kurs_2semestr\УР\Lab3_complete\Lab3_main\Lab3_main\obj\Debug\Lab3_main.csprojResolveAssemblyReference.cache
+G:\2kurs_2semestr\УР\Lab3_complete\Lab3_main\Lab3_main\obj\Debug\Lab3_main.AboutCurrRent.resources
+G:\2kurs_2semestr\УР\Lab3_complete\Lab3_main\Lab3_main\obj\Debug\Lab3_main.AdminAddCar.resources
+G:\2kurs_2semestr\УР\Lab3_complete\Lab3_main\Lab3_main\obj\Debug\Lab3_main.AdminPanel.resources
+G:\2kurs_2semestr\УР\Lab3_complete\Lab3_main\Lab3_main\obj\Debug\Lab3_main.FailureDialog.resources
+G:\2kurs_2semestr\УР\Lab3_complete\Lab3_main\Lab3_main\obj\Debug\Lab3_main.carBooking.resources
+G:\2kurs_2semestr\УР\Lab3_complete\Lab3_main\Lab3_main\obj\Debug\Lab3_main.Authorization.resources
+G:\2kurs_2semestr\УР\Lab3_complete\Lab3_main\Lab3_main\obj\Debug\Lab3_main.Register.resources
+G:\2kurs_2semestr\УР\Lab3_complete\Lab3_main\Lab3_main\obj\Debug\Lab3_main.CurrentAccount.resources
+G:\2kurs_2semestr\УР\Lab3_complete\Lab3_main\Lab3_main\obj\Debug\Lab3_main.PayDialog.resources
+G:\2kurs_2semestr\УР\Lab3_complete\Lab3_main\Lab3_main\obj\Debug\Lab3_main.Properties.Resources.resources
+G:\2kurs_2semestr\УР\Lab3_complete\Lab3_main\Lab3_main\obj\Debug\Lab3_main.csproj.GenerateResource.Cache
+G:\2kurs_2semestr\УР\Lab3_complete\Lab3_main\Lab3_main\obj\Debug\Lab3_main.csproj.CoreCompileInputs.cache
+G:\2kurs_2semestr\УР\Lab3_complete\Lab3_main\Lab3_main\obj\Debug\Lab3_main.exe
+G:\2kurs_2semestr\УР\Lab3_complete\Lab3_main\Lab3_main\obj\Debug\Lab3_main.pdb

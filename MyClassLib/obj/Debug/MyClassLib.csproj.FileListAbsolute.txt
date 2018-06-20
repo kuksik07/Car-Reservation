@@ -1,0 +1,11 @@
+D:\Oleg\Download\PROGRAMMING\2 kurs_2 sem\C#_YR\MyClassLib\bin\Debug\MyClassLib.dll
+D:\Oleg\Download\PROGRAMMING\2 kurs_2 sem\C#_YR\MyClassLib\bin\Debug\MyClassLib.pdb
+D:\Oleg\Download\PROGRAMMING\2 kurs_2 sem\C#_YR\MyClassLib\obj\Debug\MyClassLib.csproj.CoreCompileInputs.cache
+D:\Oleg\Download\PROGRAMMING\2 kurs_2 sem\C#_YR\MyClassLib\obj\Debug\MyClassLib.dll
+D:\Oleg\Download\PROGRAMMING\2 kurs_2 sem\C#_YR\MyClassLib\obj\Debug\MyClassLib.pdb
+G:\2kurs_2semestr\УР\Lab3_complete\MyClassLib\bin\Debug\MyClassLib.dll
+G:\2kurs_2semestr\УР\Lab3_complete\MyClassLib\bin\Debug\MyClassLib.pdb
+G:\2kurs_2semestr\УР\Lab3_complete\MyClassLib\obj\Debug\MyClassLib.csproj.CoreCompileInputs.cache
+G:\2kurs_2semestr\УР\Lab3_complete\MyClassLib\obj\Debug\MyClassLib.dll
+G:\2kurs_2semestr\УР\Lab3_complete\MyClassLib\obj\Debug\MyClassLib.pdb
+G:\2kurs_2semestr\УР\Lab3_complete\MyClassLib\obj\Debug\MyClassLib.csprojResolveAssemblyReference.cache
